@@ -54,7 +54,7 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 20. Finally, create the dashboard as needed using add charts, add controls, filters using Looker studio features.
 21. For this project, I have used a filter section, then a summary and finally created a heatmap for the Pick up locations using the lattitude and longitude. 
 
- Looker Dashboard : https://lookerstudio.google.com/s/vnQpMUielDI   
+ Looker Dashboard : https://lookerstudio.google.com/reporting/391cfbe5-1fba-4f58-9d2a-3c93e3f760b1 
 
 
 Special thanks to @darshilparmar for creation of the project for educational purpose.
